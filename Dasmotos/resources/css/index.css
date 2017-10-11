@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+.price{
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: khaki;
+}
+h2 {
+  font-size: 32px;
+  color: white;
+}
+.heading {
+  background-image: url("/Users/laurenhoover/Creative Cloud Files/Code/Projects/Dasmotos/resources/images/pattern.jpg")
+}
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+.price {
+  color: blue;
+}
